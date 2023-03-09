@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/site-vitrine/static/css/main.dcb71cf0.css",
+    "main.js": "/site-vitrine/static/js/main.682190af.js",
+    "static/media/fleurs2.jpg": "/site-vitrine/static/media/fleurs2.c216abb796fdf27e0791.jpg",
+    "static/media/roses.jpg": "/site-vitrine/static/media/roses.20604396768faa1c50b8.jpg",
+    "static/media/fleurs1.jpg": "/site-vitrine/static/media/fleurs1.bb2accd437c90a11ff0f.jpg",
+    "static/media/fleurs3.jpg": "/site-vitrine/static/media/fleurs3.b722473dbb06687f6b21.jpg",
+    "index.html": "/site-vitrine/index.html",
+    "main.dcb71cf0.css.map": "/site-vitrine/static/css/main.dcb71cf0.css.map",
+    "main.682190af.js.map": "/site-vitrine/static/js/main.682190af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb71cf0.css",
+    "static/js/main.682190af.js"
+  ]
+}
